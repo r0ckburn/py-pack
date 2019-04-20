@@ -1,0 +1,38 @@
+{
+    "name": "py-pack",
+    "displayName": "Py Pack",
+    "description": "Extension package for enhancing your Python development environment.",
+    "version": "0.0.1",
+    "publisher": "davidrockburn",
+    "author":{
+        "name": "davidrockburn"
+    },
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "icon": "pypack_logo.png",
+    "repository": { "type": "git", "url": "https://github.com/r0ckburn/py-pack"},
+    "galleryBanner": {
+        "color": "#1300C8",
+        "theme": "dark"
+    },
+    "extensionPack": [ 
+        "ms-python.python",
+        "dongli.python-preview",
+        "iansan5653.format-python-docstrings",
+        "LittleFoxTeam.vscode-python-test-adapter",
+        "igress.python-coding-conventions",
+        "shardulm94.trailing-spaces",
+        "streetsidesoftware.code-spell-checker",
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "formulahendry.code-runner",
+        "vscode.sublime-keybindings",
+        "yzhang.markdown-all-in-one",
+        "DavidAnson.vscode-markdownlint",
+        "vincentkos.snippet-creator"
+    ]
+}
