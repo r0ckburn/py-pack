@@ -2,9 +2,9 @@
     "name": "py-pack",
     "displayName": "Py Pack",
     "description": "Extension package for enhancing your Python development environment.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "davidrockburn",
-    "author":{
+    "author": {
         "name": "davidrockburn"
     },
     "engines": {
@@ -14,12 +14,15 @@
         "Extension Packs"
     ],
     "icon": "pypack_logo.png",
-    "repository": { "type": "git", "url": "https://github.com/r0ckburn/py-pack"},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/r0ckburn/py-pack"
+    },
     "galleryBanner": {
         "color": "#1300C8",
         "theme": "dark"
     },
-    "extensionPack": [ 
+    "extensionPack": [
         "ms-python.python",
         "dongli.python-preview",
         "iansan5653.format-python-docstrings",
