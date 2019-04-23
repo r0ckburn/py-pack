@@ -2,7 +2,7 @@
     "name": "py-pack",
     "displayName": "Py Pack",
     "description": "Extension package for enhancing your Python development environment.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "davidrockburn",
     "author": {
         "name": "davidrockburn"
@@ -26,6 +26,7 @@
         "ms-python.python",
         "dongli.python-preview",
         "iansan5653.format-python-docstrings",
+        "njpwerner.autodocstring",
         "LittleFoxTeam.vscode-python-test-adapter",
         "igress.python-coding-conventions",
         "shardulm94.trailing-spaces",

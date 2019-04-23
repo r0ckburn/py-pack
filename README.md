@@ -7,6 +7,7 @@ This extension pack contains popular Python extensions, as well as other extensi
 * [Python](https://marketplace.visualstudio.com/itemdetails?itemName=ms-python.python)
 * [Python Preview](https://marketplace.visualstudio.com/items?itemName=dongli.python-preview)
 * [Python Docstring Formatter](https://marketplace.visualstudio.com/items?itemName=iansan5653.format-python-docstrings)
+* [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 * [Python Test Explorer](https://marketplace.visualstudio.com/items?itemName=LittleFoxTeam.vscode-python-test-adapter)
 * [Python Coding Conventions](https://marketplace.visualstudio.com/items?itemName=igress.python-coding-conventions)
 * [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
