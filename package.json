@@ -2,7 +2,7 @@
     "name": "py-pack",
     "displayName": "Py Pack",
     "description": "Extension package for enhancing your Python development environment.",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "publisher": "davidrockburn",
     "author": {
         "name": "davidrockburn"
