@@ -37,6 +37,7 @@
         "vscode.sublime-keybindings",
         "yzhang.markdown-all-in-one",
         "DavidAnson.vscode-markdownlint",
-        "vincentkos.snippet-creator"
+        "vincentkos.snippet-creator",
+        "alefragnani.Bookmarks"
     ]
 }

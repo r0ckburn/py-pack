@@ -18,6 +18,7 @@ This extension pack contains popular Python extensions, as well as other extensi
 * [Sublime Text Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
 * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 * [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+* [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
 ## Want to Add an Extension?
 
