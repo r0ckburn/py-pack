@@ -4,11 +4,11 @@ All notable changes to the "py-pack" extension pack will be documented in this f
 
 ## [Unreleased]
 
-## [1.0.2] - 2019/04/22
+## [1.2.0] - 2019/04/22
 ### Added
 - Added the Bookmarks extension
 
-## [1.0.1] - 2019/04/22
+## [1.1.0] - 2019/04/22
 ### Added
 - Added the autoDocstring Python extension
 
