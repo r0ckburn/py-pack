@@ -5,7 +5,7 @@
     "version": "1.0.1",
     "publisher": "davidrockburn",
     "author": {
-        "name": "davidrockburn"
+        "name": "David Rockburn"
     },
     "engines": {
         "vscode": "^1.33.0"
